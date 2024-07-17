@@ -14,11 +14,6 @@
  <a href="#contribute">Contribute</a>
 </p>
 
-
-<p align="center">
-    <img src="./.github/login.png" alt="Image Example" width="400px">
-</p>
-
 <h2 id="started">📌 About</h2>
 
 This project is a simple Login and Sign Up app developed during [my youtube video](https://youtu.be/6qbuuPM_de4) to demonstrate how to create  Angular apps with authentication and integrate with backend.
